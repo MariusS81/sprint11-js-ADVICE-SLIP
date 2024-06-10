@@ -18,7 +18,8 @@
     font-size: 30px;
     order: 1;
 }
-.content{
+
+.content {
     order: 2;
     display: flex;
     justify-content: end;
@@ -34,3 +35,6 @@
     cursor: pointer;
 }
 
+.wait-cursor {
+    cursor: wait !important;
+}
